@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-nimbalkar-1
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Advance Java
+- 👀 I’m interested in Data Analyst 
+  
 - 📫 How to reach me https://www.linkedin.com/in/shubham-nimbalkar-94749a251/
   
 
