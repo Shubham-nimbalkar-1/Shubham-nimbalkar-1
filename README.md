@@ -121,8 +121,7 @@ Key Features:
 📜 Certifications
 
 Python, Java, HTML/CSS, WordPress
-
-Columbia | Excel for Business
+ Excel for Business
 
 HackerRank | SQL Basics
 
